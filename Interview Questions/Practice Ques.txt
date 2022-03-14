@@ -1,0 +1,5 @@
+What are the types of open() method used for XMLHttpRequest?
+What are the types of send() method used for XMLHttpRequest?
+What is the role of the callback function in AJAX?
+What is JSON in AJAX?
+What are the tools for debugging AJAX applications?
