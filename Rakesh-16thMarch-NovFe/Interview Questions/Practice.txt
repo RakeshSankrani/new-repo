@@ -1,0 +1,5 @@
+What is JSX?
+What are the differences between functional and class components?
+What is the virtual DOM? How does react use the virtual DOM to render the UI?
+What are the differences between controlled and uncontrolled components?
+What are props in React?
